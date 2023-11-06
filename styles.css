@@ -38,7 +38,7 @@ h1 {
     color: white;
     margin: 0;
     transition: transform 0.3s ease;
-    font-size: 7vw;
+    font-size: 6.5vw;
 }
 
 img {
@@ -81,7 +81,7 @@ h1:hover {
 
 /* Default styles for the button and font size */
 .download-button {
-    font-size: 50px;
+    font-size: 150px;
     padding: 10px 20px;
 }
 
