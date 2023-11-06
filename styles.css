@@ -38,7 +38,7 @@ h1 {
     color: white;
     margin: 0;
     transition: transform 0.3s ease;
-    font-size: 8vw;
+    font-size: 7vw;
 }
 
 img {
@@ -88,7 +88,7 @@ h1:hover {
 /* Media query for mobile devices */
 @media only screen and (max-width: 767px) {
     .download-button {
-        font-size: 80px; /* Increase font size for mobile devices */
+        font-size: 150px; /* Increase font size for mobile devices */
         padding: 15px 25px; /* Increase button padding for mobile devices */
     }
 }
