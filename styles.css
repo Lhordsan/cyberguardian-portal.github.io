@@ -80,7 +80,7 @@ h1:hover {
 
 @media only screen and (max-width: 1000px) {
     .download-button {
-        font-size: 130px; 
+        font-size: 100px; 
         padding: 15px 25px; 
     }
     .logo-container img {
