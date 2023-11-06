@@ -68,17 +68,11 @@ h1:hover {
     background-color: #db3a34;
 }
 
-@media only screen and (min-width: 360px) and (max-width: 768px){
+@media only screen and (max-width: 1000px){
     .download-button {
-        font-size: 60px; 
-        background-color: green;
+        font-size: 60px;     
     }
-    h1 {
-        color: green;
-        margin: 0;
-        transition: transform 0.3s ease;
-        font-size: 8vw;
-}
+   
     .logo-container img {
         width: 30vw;
         height: auto;
