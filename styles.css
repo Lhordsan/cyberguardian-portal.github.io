@@ -38,7 +38,7 @@ h1 {
     color: white;
     margin: 0;
     transition: transform 0.3s ease;
-    font-size: 4vw;
+    font-size: 9.5vw;
 }
 
 img {
@@ -78,3 +78,5 @@ h1:hover {
         padding: 3vh 8vw;
     }
 }
+
+
