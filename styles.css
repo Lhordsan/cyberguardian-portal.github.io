@@ -77,11 +77,11 @@ h1:hover {
     }
 }
 
-/* Media query for mobile devices */
+
 @media only screen and (max-width: 1000px) {
     .download-button {
-        font-size: 200px; /* Increase font size for mobile devices */
-        padding: 15px 25px; /* Increase button padding for mobile devices */
+        font-size: 200px; 
+        padding: 15px 25px; 
     }
     .logo-container img {
         width: 15vw;
