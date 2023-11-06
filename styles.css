@@ -68,11 +68,11 @@ h1:hover {
 
 @media screen and (max-width: 768px) {
     h1 {
-        font-size: 6vw;
+        font-size: 10vw;
     }
 
     .download-button {
-        font-size: 3vw;
+        font-size: 10vw;
         padding: 3vh 8vw;
     }
 }
@@ -80,11 +80,11 @@ h1:hover {
 
 @media only screen and (max-width: 1000px) {
     .download-button {
-        font-size: 70px; 
+        font-size: 120px; 
         padding: 15px 25px; 
     }
     .logo-container img {
-        width: 15vw;
+        width: 30vw;
         height: auto;
         margin-bottom: 2vh;
     }
